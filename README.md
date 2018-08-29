@@ -6,8 +6,10 @@ Development: <BR>[![Build Status](https://travis-ci.org/CS3398-Hyderabad-Bluehat
 <BR>
 Stratus is a web application displaying, viewing, and sharing images. It's like instagram but better, because we put our images on the line. <BR>
 <BR>
+# Current Members
+Michael Scales
 
-# Team Members
+# Team Members (Former)
 - Frontend
     * Ryan Howard
         1. Added login page
